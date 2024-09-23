@@ -22,6 +22,7 @@
       "@racoon/racoon/products/smart": [
         "libs/racoon/products/smart/src/index.ts"
       ],
+      "@racoon/racoon/products/ui": ["libs/racoon/products/ui/src/index.ts"],
       "@racoon/racoon/shared": ["libs/racoon/shared/src/index.ts"],
       "@racoon/racoon/sign-up/smart": [
         "libs/racoon/sign-up/smart/src/index.ts"
