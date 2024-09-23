@@ -30,6 +30,7 @@
       "@racoon/racoon/payment/smart": [
         "libs/racoon/payment/smart/src/index.ts"
       ],
+      "@racoon/racoon/payment/ui": ["libs/racoon/payment/ui/src/index.ts"],
       "@racoon/racoon/products/smart": [
         "libs/racoon/products/smart/src/index.ts"
       ],
