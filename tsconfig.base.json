@@ -18,6 +18,7 @@
       "@racoon/racoon/about-us/smart": [
         "libs/racoon/about-us/smart/src/index.ts"
       ],
+      "@racoon/racoon/about-us/ui": ["libs/racoon/about-us/ui/src/index.ts"],
       "@racoon/racoon/check-out/smart": [
         "libs/racoon/check-out/smart/src/index.ts"
       ],
