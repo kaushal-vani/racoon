@@ -28,7 +28,9 @@
       "@racoon-products-smart": ["libs/racoon/products/smart/src/index.ts"],
       "@racoon-products-ui": ["libs/racoon/products/ui/src/index.ts"],
       "@racoon-shared": ["libs/racoon/shared/src/index.ts"],
-
+      "@racoon/racoon/authentication/smart": [
+        "libs/racoon/authentication/smart/src/index.ts"
+      ]
     }
   },
   "exclude": ["node_modules", "tmp"]
