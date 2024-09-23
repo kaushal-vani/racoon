@@ -15,6 +15,7 @@
     "skipDefaultLibCheck": true,
     "baseUrl": ".",
     "paths": {
+      "@racoon/racoon/home/smart": ["libs/racoon/home/smart/src/index.ts"],
       "@racoon/racoon/shared": ["libs/racoon/shared/src/index.ts"]
     }
   },
