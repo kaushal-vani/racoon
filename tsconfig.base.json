@@ -15,35 +15,23 @@
     "skipDefaultLibCheck": true,
     "baseUrl": ".",
     "paths": {
-      "@racoon-about-us-smart": [
-        "libs/racoon/about-us/smart/src/index.ts"
-      ],
+      "@racoon-about-us-smart": ["libs/racoon/about-us/smart/src/index.ts"],
       "@racoon-about-us-ui": ["libs/racoon/about-us/ui/src/index.ts"],
-      "@racoon-check-out-smart": [
-        "libs/racoon/check-out/smart/src/index.ts"
-      ],
+      "@racoon-check-out-smart": ["libs/racoon/check-out/smart/src/index.ts"],
       "@racoon-check-out-ui": ["libs/racoon/check-out/ui/src/index.ts"],
-      "@racoon-feed-back-smart": [
-        "libs/racoon/feed-back/smart/src/index.ts"
-      ],
+      "@racoon-feed-back-smart": ["libs/racoon/feed-back/smart/src/index.ts"],
       "@racoon-feed-back-ui": ["libs/racoon/feed-back/ui/src/index.ts"],
       "@racoon-home-smart": ["libs/racoon/home/smart/src/index.ts"],
       "@racoon-home-ui": ["libs/racoon/home/ui/src/index.ts"],
       "@racoon-log-in-smart": ["libs/racoon/log-in/smart/src/index.ts"],
-      "@racoon/racoon/log-in/ui": ["libs/racoon/log-in/ui/src/index.ts"],
-      "@racoon-payment-smart": [
-        "libs/racoon/payment/smart/src/index.ts"
-      ],
+      "@racoon-payment-smart": ["libs/racoon/payment/smart/src/index.ts"],
       "@racoon-payment-ui": ["libs/racoon/payment/ui/src/index.ts"],
-      "@racoon-products-smart": [
-        "libs/racoon/products/smart/src/index.ts"
-      ],
+      "@racoon-products-smart": ["libs/racoon/products/smart/src/index.ts"],
       "@racoon-products-ui": ["libs/racoon/products/ui/src/index.ts"],
       "@racoon-shared": ["libs/racoon/shared/src/index.ts"],
-      "@racoon-sign-up-smart": [
-        "libs/racoon/sign-up/smart/src/index.ts"
-      ],
-      "@racoon-sign-up-ui": ["libs/racoon/sign-up/ui/src/index.ts"]
+      "@racoon-sign-up-smart": ["libs/racoon/sign-up/smart/src/index.ts"],
+      "@racoon-sign-up-ui": ["libs/racoon/sign-up/ui/src/index.ts"],
+      "@racoon/racoon/log-in/ui": ["libs/racoon/log-in/ui/src/index.ts"]
     }
   },
   "exclude": ["node_modules", "tmp"]
