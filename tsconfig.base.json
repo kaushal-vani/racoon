@@ -15,6 +15,9 @@
     "skipDefaultLibCheck": true,
     "baseUrl": ".",
     "paths": {
+      "@racoon/racoon/check-out/smart": [
+        "libs/racoon/check-out/smart/src/index.ts"
+      ],
       "@racoon/racoon/home/smart": ["libs/racoon/home/smart/src/index.ts"],
       "@racoon/racoon/home/ui": ["libs/racoon/home/ui/src/index.ts"],
       "@racoon/racoon/log-in/smart": ["libs/racoon/log-in/smart/src/index.ts"],
