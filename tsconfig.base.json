@@ -18,7 +18,10 @@
       "@racoon/racoon/home/smart": ["libs/racoon/home/smart/src/index.ts"],
       "@racoon/racoon/home/ui": ["libs/racoon/home/ui/src/index.ts"],
       "@racoon/racoon/shared": ["libs/racoon/shared/src/index.ts"],
-      "@racoon/racoon/sign-up/smart": ["libs/racoon/sign-up/smart/src/index.ts"]
+      "@racoon/racoon/sign-up/smart": [
+        "libs/racoon/sign-up/smart/src/index.ts"
+      ],
+      "@racoon/racoon/sign-up/ui": ["libs/racoon/sign-up/ui/src/index.ts"]
     }
   },
   "exclude": ["node_modules", "tmp"]
