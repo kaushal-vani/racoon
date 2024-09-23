@@ -30,6 +30,9 @@
       "@racoon-shared": ["libs/racoon/shared/src/index.ts"],
       "@racoon/racoon/authentication/smart": [
         "libs/racoon/authentication/smart/src/index.ts"
+      ],
+      "@racoon/racoon/authentication/ui": [
+        "libs/racoon/authentication/ui/src/index.ts"
       ]
     }
   },
