@@ -1,0 +1,10 @@
+{
+  "name": "racoon-main-e2e",
+  "$schema": "../../../node_modules/nx/schemas/project-schema.json",
+  "projectType": "application",
+  "sourceRoot": "apps/racoon/main-e2e/src",
+  "tags": [],
+  "implicitDependencies": ["racoon-main"],
+  "// targets": "to see all targets run: nx show project racoon-main-e2e --web",
+  "targets": {}
+}
