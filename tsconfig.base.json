@@ -23,6 +23,9 @@
         "libs/racoon/check-out/smart/src/index.ts"
       ],
       "@racoon/racoon/check-out/ui": ["libs/racoon/check-out/ui/src/index.ts"],
+      "@racoon/racoon/feed-back/smart": [
+        "libs/racoon/feed-back/smart/src/index.ts"
+      ],
       "@racoon/racoon/home/smart": ["libs/racoon/home/smart/src/index.ts"],
       "@racoon/racoon/home/ui": ["libs/racoon/home/ui/src/index.ts"],
       "@racoon/racoon/log-in/smart": ["libs/racoon/log-in/smart/src/index.ts"],
