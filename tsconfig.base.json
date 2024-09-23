@@ -27,6 +27,9 @@
       "@racoon/racoon/home/ui": ["libs/racoon/home/ui/src/index.ts"],
       "@racoon/racoon/log-in/smart": ["libs/racoon/log-in/smart/src/index.ts"],
       "@racoon/racoon/log-in/ui": ["libs/racoon/log-in/ui/src/index.ts"],
+      "@racoon/racoon/payment/smart": [
+        "libs/racoon/payment/smart/src/index.ts"
+      ],
       "@racoon/racoon/products/smart": [
         "libs/racoon/products/smart/src/index.ts"
       ],
