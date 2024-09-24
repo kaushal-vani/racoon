@@ -4,9 +4,9 @@ import { Component } from '@angular/core';
   selector: 'lib-about-us-page',
   standalone: true,
   imports: [],
-  templateUrl: './about-us-page.component.html',
-  styleUrl: './about-us-page.component.scss'
+  templateUrl: './about-us.component.html',
+  styleUrl: './about-us.component.scss'
 })
-export class AboutUsPageComponent {
+export class AboutUsComponent {
 
 }
