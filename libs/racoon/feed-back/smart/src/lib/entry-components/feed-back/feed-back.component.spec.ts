@@ -1,18 +1,17 @@
 import { ComponentFixture, TestBed } from '@angular/core/testing';
 
-import { FeedBackPageComponent } from './feed-back-page.component';
-
-describe('FeedBackPageComponent', () => {
-  let component: FeedBackPageComponent;
-  let fixture: ComponentFixture<FeedBackPageComponent>;
+import { FeedBackComponent } from './feed-back.component'
+describe('FeedBackComponent', () => {
+  let component: FeedBackComponent;
+  let fixture: ComponentFixture<FeedBackComponent>;
 
   beforeEach(async () => {
     await TestBed.configureTestingModule({
-      imports: [FeedBackPageComponent]
+      imports: [FeedBackComponent]
     })
     .compileComponents();
 
-    fixture = TestBed.createComponent(FeedBackPageComponent);
+    fixture = TestBed.createComponent(FeedBackComponent);
     component = fixture.componentInstance;
     fixture.detectChanges();
   });
