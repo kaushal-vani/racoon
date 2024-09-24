@@ -1,1 +1,2 @@
-export * from './lib/racoon-authentication-smart/racoon-authentication-smart.component';
+/* Entry Component */
+export * from './lib/entry-components/authentication/authentication.component';
