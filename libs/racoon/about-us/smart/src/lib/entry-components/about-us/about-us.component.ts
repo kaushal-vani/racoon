@@ -1,7 +1,7 @@
 import { Component } from '@angular/core';
 
 @Component({
-  selector: 'lib-about-us-page',
+  selector: 'lib-about-us',
   standalone: true,
   imports: [],
   templateUrl: './about-us.component.html',
